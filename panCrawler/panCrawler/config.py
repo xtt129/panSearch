@@ -2,7 +2,7 @@ __author__ = 'tixie'
 
 
 class Config:
-    DATA_DIR = 'C:\\Code\\NetDiskSearch\\data\\'
+    DATA_DIR = 'C:\\data\\'
     Baidu_PageSize = 20
 
 
